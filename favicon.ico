@@ -23,3 +23,6 @@
   a.download = 'favicon.ico';
   a.click();
 })();
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+/// difufjfhfjv 
